@@ -1,0 +1,8 @@
+{
+  "name": "IA Dungeon Master - Solo Leveling RPG",
+  "description": "Um RPG narrativo automatizado inspirado no universo de Solo Leveling, onde você é um Hunter subindo de Rank em um mundo de Gates e Dungeons.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
